@@ -1,0 +1,15 @@
+# Gradle
+.gradle/
+.kotlin/
+build/
+app/build/
+local.properties
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# outputs & logs
+crash.log
+*.log

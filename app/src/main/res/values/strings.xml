@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Teleworker</string>
+    <string name="channel_sessions">会话保活</string>
+    <string name="channel_desc">保持 SSH / SFTP / VNC 会话在后台持续在线</string>
+</resources>

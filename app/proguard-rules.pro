@@ -1,0 +1,6 @@
+-keep class com.jcraft.jsch.** { *; }
+-keepclassmembers class com.jcraft.jsch.** { *; }
+-dontwarn com.jcraft.jsch.**
+-dontwarn org.slf4j.**
+-dontwarn java.awt.**
+-dontwarn javax.swing.**
